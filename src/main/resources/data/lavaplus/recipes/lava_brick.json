@@ -1,0 +1,8 @@
+{
+  "type" : "minecraft:smelting",
+  "ingredient" : { "item" : "minecraft:nether_brick"},
+  "result" : "lavaplus:lava_brick",
+  "experience" : 1.0,
+  "cookingtime" : 200
+
+}

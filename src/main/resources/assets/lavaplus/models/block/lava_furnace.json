@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "lavaplus:blocks/lava_furnacetop",
+    "front": "lavaplus:blocks/lava_furnaceside",
+    "side": "lavaplus:blocks/lava_furnaceside"
+
+
+  }
+}

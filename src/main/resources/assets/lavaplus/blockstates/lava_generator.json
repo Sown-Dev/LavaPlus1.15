@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lavaplus:block/lava_generator" }
+  }
+}

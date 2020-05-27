@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "lavaplus:blocks/lava_generatortop",
+    "front": "lavaplus:blocks/lava_generatorside",
+    "side": "lavaplus:blocks/lava_generatorside"
+
+
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "psp",
+    "sIs",
+    "psp"
+  ],
+  "key" : {
+    "I" : { "item" : "minecraft:chest"},
+    "s" : { "item" : "minecraft:wooden_slab"},
+    "p" : { "item" : "minecraft:wooden_planks"}
+
+  },
+  "result" : { "item" : "lavaplus:wooden_crate"}
+}

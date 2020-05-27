@@ -1,0 +1,13 @@
+{
+  "item.lavaplus.lava_brick" : "Lava Brick",
+  "item.lavaplus.infernal_sword" : "Infernal Sword",
+  "block.lavaplus.lava_bricks" : "Lava Bricks",
+  "block.lavaplus.lava_furnace" : "Lava Furnace",
+  "block.lavaplus.wooden_crate" : "Wooden Crate",
+  "block.lavaplus.lava_generator" : "Lava Generator",
+
+  "container.wooden_crate" : "Wooden Crate",
+
+  "itemGroup.lavaplus" : "Lava Plus"
+
+}

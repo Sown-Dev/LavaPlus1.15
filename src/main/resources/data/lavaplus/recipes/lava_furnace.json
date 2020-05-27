@@ -1,0 +1,15 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "IiI",
+    "ofo",
+    "IiI"
+  ],
+  "key" : {
+    "I" : { "item" : "lavaplus:lava_bricks"},
+    "i" : { "item" : "minecraft:iron_block"},
+    "f" : { "item" : "minecraft:furnace"},
+    "o" : { "item" : "minecraft:obsidian"}
+  },
+  "result" : { "item" : "lavaplus:lava_furnace"}
+}
